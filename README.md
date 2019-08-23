@@ -4,7 +4,7 @@ Cibgo is a trolley-based application aiming to smooth your flying journey. This 
 
 ### App
 
-The app applies CS architecture. The client side is written with [React Native](https://facebook.github.io/react-native/) in order to cover full platform. The server leverages [Flask](https://palletsprojects.com/p/flask/)o develop.
+The app applies CS architecture. The client side is written with [React Native](https://facebook.github.io/react-native/) in order to cover full platform. The server leverages [Flask](https://palletsprojects.com/p/flask/) to develop.
 
 ### Trolley
 
